@@ -143,10 +143,16 @@ main h1{
     display: block;
     font-family: 'idroid', sans-serif;
     color: #2C6847;
-    font-size: 27px;
+    font-size: 2em;
     margin: auto;
     width: 100%;
     margin: 5px 15px 0px 15px;
+}
+
+@media screan and (max-widht: 600px) {
+    h1{
+        font-size: 1.5em;
+    }
 }
 
 main h2{
