@@ -149,11 +149,7 @@ main h1{
     margin: 5px 15px 0px 15px;
 }
 
-@media screan and (max-widht: 600px) {
-    h1{
-        font-size: 1.5em;
-    }
-}
+
 
 main h2{
     font-family: var(--font-android);
