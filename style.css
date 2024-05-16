@@ -153,7 +153,7 @@ main h1{
 main h2{
     font-family: var(--font-android);
     color: #2C6847;
-    font-size: 1.4em;
+    font-size: 1.3em;
     margin: 5px 15px 0px 15px;
     background: linear-gradient(to right, #35742e69, #40ca3648, #ebe5c5);
     border-radius: 20px;
