@@ -151,7 +151,7 @@ main h1{
 
 
 main h2{
-    display: inline;
+    display: inline-block;
     font-family: var(--font-android);
     color: #2C6847;
     font-size: 1.2em;
